@@ -17,113 +17,113 @@ HeaderInfo =
 	{
 		 
 		{
-			y = -99,20300,
-			x = -61,06294,
+			y = -99.20300,
+			x = -61.06294,
 			owner_id = 1000,
 			ebp_name = "starting_position_shared_territory",
 		},
 		 
 		{
-			y = -87,24352,
-			x = -101,90466,
+			y = -87.24352,
+			x = -101.90466,
 			owner_id = 1001,
 			ebp_name = "starting_position_shared_territory",
 		},
 		 
 		{
-			y = 97,35898,
-			x = -34,12628,
+			y = 97.35898,
+			x = -34.12628,
 			owner_id = 1003,
 			ebp_name = "starting_position_shared_territory",
 		},
 		 
 		{
-			y = 98,93312,
-			x = 7,83692,
+			y = 98.93312,
+			x = 7.83692,
 			owner_id = 1002,
 			ebp_name = "starting_position_shared_territory",
 		},
 		 
 		{
-			y = 10,36137,
-			x = -106,43113,
+			y = 10.36137,
+			x = -106.43113,
 			owner_id = 0,
 			ebp_name = "victory_point",
 		},
 		 
 		{
-			y = -67,52943,
-			x = 67,40891,
+			y = -67.52943,
+			x = 67.40891,
 			owner_id = 0,
 			ebp_name = "victory_point",
 		},
 		 
 		{
-			y = 66,83430,
-			x = 93,13699,
+			y = 66.83430,
+			x = 93.13699,
 			owner_id = 0,
 			ebp_name = "victory_point",
 		},
 		 
 		{
-			y = -81,69213,
-			x = 104,09192,
+			y = -81.69213,
+			x = 104.09192,
 			owner_id = 0,
 			ebp_name = "territory_fuel_point_mp",
 		},
 		 
 		{
-			y = 24,86892,
-			x = 102,92779,
+			y = 24.86892,
+			x = 102.92779,
 			owner_id = 0,
 			ebp_name = "territory_fuel_point_mp",
 		},
 		 
 		{
-			y = -90,58973,
-			x = 9,75314,
+			y = -90.58973,
+			x = 9.75314,
 			owner_id = 0,
 			ebp_name = "territory_munitions_point_mp",
 		},
 		 
 		{
-			y = 109,27722,
-			x = 62,78747,
+			y = 109.27722,
+			x = 62.78747,
 			owner_id = 0,
 			ebp_name = "territory_munitions_point_mp",
 		},
 		 
 		{
-			y = -24,36417,
-			x = 57,95871,
+			y = -24.36417,
+			x = 57.95871,
 			owner_id = 0,
 			ebp_name = "territory_point_mp",
 		},
 		 
 		{
-			y = -35,42668,
-			x = -22,92760,
+			y = -35.42668,
+			x = -22.92760,
 			owner_id = 0,
 			ebp_name = "territory_point_mp",
 		},
 		 
 		{
-			y = 33,58501,
-			x = -19,42160,
+			y = 33.58501,
+			x = -19.42160,
 			owner_id = 0,
 			ebp_name = "territory_point_mp",
 		},
 		 
 		{
-			y = 60,11414,
-			x = -80,43140,
+			y = 60.11414,
+			x = -80.43140,
 			owner_id = 0,
 			ebp_name = "territory_point_mp",
 		},
 		 
 		{
-			y = -16,28194,
-			x = -88,36181,
+			y = -16.28194,
+			x = -88.36181,
 			owner_id = 0,
 			ebp_name = "territory_point_mp",
 		},
