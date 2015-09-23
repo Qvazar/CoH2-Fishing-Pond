@@ -128,6 +128,9 @@ HeaderInfo =
 			ebp_name = "starting_position_shared_territory",
 		},
 	},
-	default_skin = "winter",
+	default_skins =  
+	{
+		"winter",
+	},
 }
 
