@@ -45,15 +45,15 @@ HeaderInfo =
 		},
 		 
 		{
-			y = -67.52943,
-			x = 67.40891,
+			y = -6.30741,
+			x = -23.02896,
 			owner_id = 0,
 			ebp_name = "victory_point",
 		},
 		 
 		{
-			y = 66.83430,
-			x = 93.13699,
+			y = -40.54509,
+			x = 90.72273,
 			owner_id = 0,
 			ebp_name = "victory_point",
 		},
@@ -66,8 +66,8 @@ HeaderInfo =
 		},
 		 
 		{
-			y = 24.86892,
-			x = 102.92779,
+			y = 12.64857,
+			x = 98.56491,
 			owner_id = 0,
 			ebp_name = "territory_fuel_point_mp",
 		},
@@ -87,8 +87,8 @@ HeaderInfo =
 		},
 		 
 		{
-			y = -24.36417,
-			x = 57.95871,
+			y = -34.87637,
+			x = 60.18196,
 			owner_id = 0,
 			ebp_name = "territory_point_mp",
 		},
